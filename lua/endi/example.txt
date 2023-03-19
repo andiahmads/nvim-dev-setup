@@ -1,0 +1,7 @@
+text text2
+
+
+hallo ini pengalaman saya menggunakan nvim
+
+
+

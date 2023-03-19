@@ -1,0 +1,5 @@
+require("endi.plugins-setup")
+require("endi.core.options")
+require("endi.core.keymaps")
+require("endi.core.colorscheme")
+require("endi.plugins.comment")
