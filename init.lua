@@ -3,3 +3,8 @@ require("endi.core.options")
 require("endi.core.keymaps")
 require("endi.core.colorscheme")
 require("endi.plugins.comment")
+require("endi.plugins.nvim-tree")
+require("endi.plugins.lualine")
+require("endi.plugins.telescope")
+require("endi.plugins.nvim-cmp")
+
